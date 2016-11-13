@@ -1,0 +1,27 @@
+c:\users\paweł\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\paweł\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\paweł\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\paweł\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\paweł\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\paweł\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\paweł\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\paweł\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\paweł\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Paweł\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Paweł\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Paweł\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Paweł\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Paweł\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Paweł\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Paweł\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Paweł\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Dom\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Dom\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Dom\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Dom\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Dom\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Dom\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Dom\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Dom\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Dom\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
