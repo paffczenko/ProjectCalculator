@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
@@ -37,9 +37,7 @@ namespace Calculator
             var leftBracket = operators.Pop();
             while (!leftBracket.Equals('('))
             {
-                output.Append(" ");
-                output.Append(leftBracket);
-
+                AppendSymbol(leftBracket);
                 leftBracket = operators.Pop();
             }
         }
@@ -79,9 +77,7 @@ namespace Calculator
 
             while (GetPriority(oper) >= GetPriority(symChar) && operators.Count > 0)
             {
-                output.Append(" ");
-                output.Append(oper);
-
+                AppendSymbol(oper);
                 operators.Pop();
                 oper = operators.Peek();
             }
